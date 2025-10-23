@@ -52,6 +52,7 @@ function validaPeso(peso) {
     } else {
         return false;
     }
+
 }
 
 function validaAltura(altura) {
@@ -62,3 +63,5 @@ function validaAltura(altura) {
         return false;
     }
 }
+
+
